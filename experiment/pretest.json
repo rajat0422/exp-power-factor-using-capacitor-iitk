@@ -10,7 +10,7 @@
         "d": "Zero"
       },
       "explanations": {
-        "a": "Incorrect, as the power factor cannot exceed unity. A power factor greater than 1 is not physically possible.",
+        "a": "Incorrect , as the power factor cannot exceed unity. A power factor greater than 1 is not physically possible.",
         "b": "Incorrect, as power factor less than unity indicates inefficiency, but it is not the maximum value.",
         "c": "Correct. The power factor is unity when the circuit is purely resistive. A power factor of 1 represents the maximum possible efficiency in power transfer.",
         "d": "Incorrect, as a power factor of zero occurs in purely inductive or capacitive circuits, which is the minimum value, not the maximum."
